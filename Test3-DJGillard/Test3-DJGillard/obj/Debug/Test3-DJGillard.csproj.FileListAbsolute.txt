@@ -1,0 +1,9 @@
+c:\users\djgil\documents\visual studio 2015\Projects\Test3-DJGillard\Test3-DJGillard\bin\Debug\Test3-DJGillard.exe.config
+C:\Users\DJGil\Documents\Visual Studio 2015\Projects\Test3-DJGillard\Test3-DJGillard\obj\Debug\Test3-DJGillard.csprojResolveAssemblyReference.cache
+C:\Users\DJGil\Documents\Visual Studio 2015\Projects\Test3-DJGillard\Test3-DJGillard\obj\Debug\Test3_DJGillard.Test3.resources
+C:\Users\DJGil\Documents\Visual Studio 2015\Projects\Test3-DJGillard\Test3-DJGillard\obj\Debug\Test3_DJGillard.Properties.Resources.resources
+C:\Users\DJGil\Documents\Visual Studio 2015\Projects\Test3-DJGillard\Test3-DJGillard\obj\Debug\Test3-DJGillard.csproj.GenerateResource.Cache
+C:\Users\DJGil\Documents\Visual Studio 2015\Projects\Test3-DJGillard\Test3-DJGillard\bin\Debug\Test3-DJGillard.exe
+C:\Users\DJGil\Documents\Visual Studio 2015\Projects\Test3-DJGillard\Test3-DJGillard\bin\Debug\Test3-DJGillard.pdb
+C:\Users\DJGil\Documents\Visual Studio 2015\Projects\Test3-DJGillard\Test3-DJGillard\obj\Debug\Test3-DJGillard.exe
+C:\Users\DJGil\Documents\Visual Studio 2015\Projects\Test3-DJGillard\Test3-DJGillard\obj\Debug\Test3-DJGillard.pdb
